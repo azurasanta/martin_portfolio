@@ -16,7 +16,7 @@ const HeaderSocials = () => {
         <BsLinkedin />{" "}
       </a>
 
-      <a href="https://github.com/saurabhh-svg" target="_blank">
+      <a href="https://github.com/azurasanta" target="_blank">
         <BsGithub />{" "}
       </a>
     </div>
