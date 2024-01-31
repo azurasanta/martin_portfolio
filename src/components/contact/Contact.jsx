@@ -39,7 +39,7 @@ const Contact = () => {
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>martinjosipovic17@gmail.com</h5>
-            <a href="mailto:martinjosipovic17@gmail.com" target="_blank">
+            <a href="mailto:martinjosipovic17@gmail.com" target="_blank" rel="noreferrer">
               Send a Message{" "}
             </a>
           </article>
@@ -47,7 +47,7 @@ const Contact = () => {
             <AiFillLinkedin className="contact__option-icon" />
             <h4>www.linkedin.com/in/martin-josipovic-388613233/</h4>
             <h5>Martin</h5>
-            <a href="mailto:martinjosipovic17@gmail.com" target="_blank">
+            <a href="mailto:martinjosipovic17@gmail.com" target="_blank" rel="noreferrer">
               Send a Message{" "}
             </a>
           </article>
@@ -58,6 +58,7 @@ const Contact = () => {
             <a
               href="https://wa.me/+48730811395"
               target="_blank"
+              rel="noreferrer"
             >
               Send a Message{" "}
             </a>
