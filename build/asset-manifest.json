@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9e9c84ea.css",
-    "main.js": "/static/js/main.b5126347.js",
+    "main.js": "/static/js/main.b8e61aed.js",
     "static/media/portfolio3.jpg": "/static/media/portfolio3.8dac94414b0b8002c51e.jpg",
     "static/media/portfolio5.jpg": "/static/media/portfolio5.276be710e95a42ee787c.jpg",
     "static/media/portfolio1.jpg": "/static/media/portfolio1.57cdb4fddb293a8b0877.jpg",
@@ -9,14 +9,14 @@
     "static/media/portfolio4.jpg": "/static/media/portfolio4.7aaaba379f1cfc1f9859.jpg",
     "static/media/portfolio2.jpg": "/static/media/portfolio2.1c52026c43772f5a2317.jpg",
     "static/media/Martin Josipovic - CV.pdf": "/static/media/Martin Josipovic - CV.c28f6a070b4ab758c1ca.pdf",
+    "static/media/pic_b.png": "/static/media/pic_b.811267d15fc5b885efbf.png",
     "static/media/me.jpg": "/static/media/me.e94634cd378a06ef7246.jpg",
-    "static/media/pic_b.png": "/static/media/pic_b.144576d8886df13b400d.png",
     "index.html": "/index.html",
     "main.9e9c84ea.css.map": "/static/css/main.9e9c84ea.css.map",
-    "main.b5126347.js.map": "/static/js/main.b5126347.js.map"
+    "main.b8e61aed.js.map": "/static/js/main.b8e61aed.js.map"
   },
   "entrypoints": [
     "static/css/main.9e9c84ea.css",
-    "static/js/main.b5126347.js"
+    "static/js/main.b8e61aed.js"
   ]
 }
